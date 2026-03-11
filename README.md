@@ -90,7 +90,7 @@ Fine-tuning helped the model adapt to the dataset and sometimes produced more st
 
 ## Results
 
-Some example results can be found in the 'results' folder.
+Some example results can be found in the `results` folder.
 
 The results include outputs from:
 - baseline Pix2Pix training
@@ -107,7 +107,7 @@ I also built a simple **Gradio interface** to test the trained model.
 
 Users can upload a black-and-white manga image, and the model will generate a colorized version.
 
-A demo video of the Gradio interface is available in the 'demo' folder.
+A demo video of the Gradio interface is available in the `demo` folder.
 
 ## Conclusion
 
