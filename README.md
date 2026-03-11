@@ -107,9 +107,7 @@ I also built a simple **Gradio interface** to test the trained model.
 
 Users can upload a black-and-white manga image, and the model will generate a colorized version.
 
-A demo video of the Gradio interface can be found here:
-
-[Watch Demo](demo/gradio_demo.mov)
+A demo video of the Gradio interface is available in the demo folder.
 
 ## Conclusion
 
