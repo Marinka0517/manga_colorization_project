@@ -80,6 +80,8 @@ Instead of only comparing pixel values, perceptual loss compares higher-level vi
 
 This sometimes helped the model produce more natural-looking colors.
 
+![Loss comparison](results/perceptual_style_results/loss_comparison.png)
+
 ### Fine-Tuning
 
 I tested fine-tuning using additional manga images.
@@ -107,3 +109,8 @@ Users can upload a black-and-white manga image, and the model will generate a co
 
 A demo video of the Gradio interface is available in the demo folder.
 
+## Conclusion
+
+This project explores how deep learning models can be applied to manga colorization.
+
+Through multiple training experiments, I learned how different training strategies affect the results and how generative models can be used for creative image tasks.
